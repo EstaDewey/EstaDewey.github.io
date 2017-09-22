@@ -1,0 +1,35 @@
+/* GLOBAL STYLES
+-------------------------------------------------- */
+/* Padding below the footer and lighter body text */
+
+.article-top{
+  margin-top: 100px;
+}
+
+.article-gap{
+  margin-top: 50px;
+}
+
+.article-gap-line{
+  line-height: 30px;
+}
+
+.article-pic-size{
+  height: 400px;
+}
+.article{
+  height: 400px;
+}
+
+.article .item {
+  background-color: #777;
+}
+
+.article-inner > .item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 400px;
+}
+
