@@ -43,7 +43,7 @@ document.writeln("<a href=\"#\" class=\"dropdown-toggle\" data-toggle=\"dropdown
 document.writeln("<ul class=\"dropdown-menu\">");
 document.writeln("<li class=\"dropdown-header\">攻略</li>");
 document.writeln("<li><a href=\"http://blog.deweyblog.com/children/strategy/taishan.html\">泰山攻略之昼</a></li>");
-document.writeln("<li><a href=\"#\">泰山攻略之夜</a></li>");
+document.writeln("<li><a href=\"http://blog.deweyblog.com/children/strategy/taishannight.html\">泰山攻略之夜</a></li>");
 document.writeln("<li><a href=\"#\">华山攻略</a></li>");
 document.writeln("<li><a href=\"#\">黄山攻略</a></li>");
 document.writeln("<li><a href=\"#\">山西平遥攻略</a></li>");
