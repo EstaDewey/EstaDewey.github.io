@@ -1,7 +1,7 @@
 document.writeln("<!-- FOOTER -->");
 document.writeln("<footer>");
 document.writeln("<p class=\"pull-right\"><a href=\"#\">置顶</a></p>");
-document.writeln(" <p>&copy; 2017 Deweyblog, Inc. &middot; <a href=\"#\">Privacy</a> &middot; <a href=\"#\">Terms</a></p>");
+document.writeln(" <p>&copy; 2018 Deweyblog, Inc. &middot; <a href=\"#\">Privacy</a> &middot; <a href=\"#\">Terms</a></p>");
 document.writeln(" </footer>");
 document.writeln("</div><!-- /.container -->");
 document.writeln("<!-- Bootstrap core JavaScript================================================== -->");
