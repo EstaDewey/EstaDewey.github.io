@@ -47,7 +47,7 @@ document.writeln("<li><a href=\"http://blog.deweyblog.com/children/strategy/tais
 document.writeln("<li><a href=\"http://blog.deweyblog.com/children/strategy/huashan.html\">华山攻略</a></li>");
 document.writeln("<li><a href=\"#\">黄山攻略</a></li>");
 document.writeln("<li><a href=\"#\">山西平遥攻略</a></li>");
-document.writeln("<li><a href=\"#\">河西走廊攻略</a></li>");
+document.writeln("<li><a href=\"http://blog.deweyblog.com/children/strategy/hexizoulang.html\">河西走廊攻略</a></li>");
 document.writeln("<li role=\"separator\" class=\"divider\"></li>");
 document.writeln("<li class=\"dropdown-header\">游记</li>");
 document.writeln("<li><a href=\"#\">泰山游记</a></li>");
