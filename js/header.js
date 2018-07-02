@@ -48,6 +48,7 @@ document.writeln("<li><a href=\"http://blog.deweyblog.com/children/strategy/huas
 document.writeln("<li><a href=\"#\">黄山攻略</a></li>");
 document.writeln("<li><a href=\"#\">山西平遥攻略</a></li>");
 document.writeln("<li><a href=\"http://blog.deweyblog.com/children/strategy/hexizoulang.html\">河西走廊攻略</a></li>");
+document.writeln("<li><a href=\"http://blog.deweyblog.com/children/strategy/songshan.html\">嵩山攻略</a></li>");
 document.writeln("<li role=\"separator\" class=\"divider\"></li>");
 document.writeln("<li class=\"dropdown-header\">游记</li>");
 document.writeln("<li><a href=\"#\">泰山游记</a></li>");
@@ -55,6 +56,7 @@ document.writeln("<li><a href=\"#\">华山游记</a></li>");
 document.writeln("<li><a href=\"#\">黄山游记</a></li>");
 document.writeln("<li><a href=\"#\">长岛游记</a></li>");
 document.writeln("<li><a href=\"#\">河西走廊游记</a></li>");
+document.writeln("<li><a href=\"#\">嵩山游记</a></li>");
 document.writeln("</ul>");
 document.writeln("</li>");
 document.writeln("<li><a href=\"http://blog.deweyblog.com/children/aboutMe/aboutme.html\">关于我</a></li>");
