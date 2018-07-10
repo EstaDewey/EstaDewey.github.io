@@ -18,6 +18,7 @@ document.writeln("<script src=\"https://oss.maxcdn.com/respond/1.4.2/respond.min
 document.writeln(" <![endif]-->");
 document.writeln(" <link href=\"http://blog.deweyblog.com/css/carousel.css\" rel=\"stylesheet\">");
 document.writeln(" <link href=\"http://blog.deweyblog.com/css/article.css\" rel=\"stylesheet\">");
+document.writeln("<script type='text/javascript' src='http://tajs.qq.com/stats?sId=65925037' charset='UTF-8'></script>");
 document.writeln("</head>");
 document.writeln("<!-- NAVBAR ");
 document.writeln("===================================== ============= --> ");
